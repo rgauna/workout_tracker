@@ -1,0 +1,24 @@
+{
+  "name": "workout_tracker",
+  "version": "1.0.0",
+  "description": "workout tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgauna/workout_tracker.git"
+  },
+  "author": "rudy gauna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgauna/workout_tracker/issues"
+  },
+  "homepage": "https://github.com/rgauna/workout_tracker#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.0",
+    "morgan": "^1.10.0"
+  }
+}
