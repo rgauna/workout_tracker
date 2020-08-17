@@ -14,9 +14,12 @@ body,
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: url("./images/fitness6.jpg") no-repeat;   
-  background-position:50% 50%;  /* Sets reference point to scale from */
-  background-size:cover;        /* Sets background image to cover entire element */   
+  background: url("./images/fitness6.jpg") no-repeat ;   
+  background-position:50% 50%;  
+  background-size:cover;     
+  
+
+  rgba(137, 196, 244, 1)    
 }
 
 nav {
